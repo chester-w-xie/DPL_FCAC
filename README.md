@@ -12,7 +12,7 @@ School of Electronic & Information Engineering, South China University of Techno
 
 ### The problem of Few-shot class-incremental audio classification
 <div align="center">
-  <img src='figs/FCAC.png' width="80%" height="80%" alt=""/>
+  <img src='figs/FCAC.png' width="100%" height="100%" alt=""/>
 </div>
 
 
@@ -24,7 +24,7 @@ School of Electronic & Information Engineering, South China University of Techno
 ### The method of discriminative prototype learning
 
 <div align="center">
-  <img src='figs/DPL.png' width="80%" height="80%" alt=""/>
+  <img src='figs/DPL.png' width="100%" height="100%" alt=""/>
 </div>
 
 

@@ -38,7 +38,7 @@ School of Electronic & Information Engineering, South China University of Techno
 ## Main results
 
 <div align="left">
-  <img src='figs/Main_result.png' width="8445" alt=""/>
+  <img src='figs/Main_result.png' width="50%" height="50%" alt=""/>
 </div>
 
 

@@ -4,7 +4,7 @@ Official PyTorch implementation of **DPL**, from the following paper:
 
 [Few-shot class-incremental audio classification via discriminative prototype learning](https://www.sciencedirect.com/science/article/pii/S0957417423005468?via%3Dihub). Expert Systems with Applications 2023.\
 [Wei Xie](https://scholar.google.com/citations?hl=en&user=bOUL1r4AAAAJ), [Yanxiong Li](https://scholar.google.com/citations?user=ywDuJjEAAAAJ&hl=en), [Qianhua He](https://scholar.google.com/citations?user=xgI45kMAAAAJ&hl=en) and Wenchang Cao\
-School of Electronic & Information Engineering, South China University of Technology\
+School of Electronic & Information Engineering, South China University of Technology
 
 
 --- 
@@ -38,7 +38,7 @@ School of Electronic & Information Engineering, South China University of Techno
 ## Main results
 
 <div align="left">
-  <img src='figs/Main_result.png' width="50%" height="50%" alt=""/>
+  <img src='figs/Main_result.png' width="80%" height="80%" alt=""/>
 </div>
 
 

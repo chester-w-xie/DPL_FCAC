@@ -29,9 +29,21 @@ School of Electronic & Information Engineering, South China University of Techno
 
 
 
-## Requirements
+## 0. Requirements
+
+[Conda]( https://conda.io/projects/conda/en/latest/user-guide/install/index.html?highlight=conda ) should be installed on the system.
+
+* Install [Anaconda](https://www.anaconda.com/).
+
+* Run the install dependencies script:
+```bash
+conda env create -f environment.yml
+```
+This creates conda environment ```FCAC``` with all the dependencies.
 
 ## Datasets
+
+Please follow the instructions [here](https://github.com/chester-w-xie/FCAC_datasets) to prepare the NS and FS datasets.
 
 ## Usage
 

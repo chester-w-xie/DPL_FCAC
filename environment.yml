@@ -1,0 +1,4 @@
+name: my_environment
+channels:
+  - defaults
+prefix: /SATA01/chester/anaconda3/envs/my_environment

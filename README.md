@@ -43,7 +43,7 @@ This creates conda environment ```FCAC``` with all the dependencies.
 
 ## Datasets
 
-Please follow the instructions [here](https://github.com/chester-w-xie/FCAC_datasets) to prepare the NS and FS datasets.
+Please follow the instructions [here](https://github.com/chester-w-xie/FCAC_datasets) to prepare the NSynth-100 and FSC-89 datasets.
 
 ## Usage
 

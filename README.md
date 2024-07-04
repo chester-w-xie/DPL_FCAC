@@ -71,7 +71,13 @@ For the experiments involving the DPL method on the FSC-89 dataset, please updat
 exp_FSC89.sh
 ```
 
+
+
 ## Main results
+
+The script is configured to conduct 100 trials by default, with the final results being aggregated for statistical analysis.
+
+You should obtain results similar to the following, which may vary based on your software and hardware configuration.
 
 <div align="left">
   <img src='figs/Main_result.png' width="80%" height="80%" alt=""/>
@@ -79,7 +85,11 @@ exp_FSC89.sh
 
 
 ## Acknowledgement
-This repository is built using 
+Our project references the codes in the following repos.
+
+- [CEC](https://github.com/icoz69/CEC-CVPR2021)
+- [Augmix](https://github.com/google-research/augmix)
+
 ## License
 This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
 

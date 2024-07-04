@@ -45,6 +45,19 @@ This creates conda environment ```FCAC``` with all the dependencies.
 
 Please follow the instructions [here](https://github.com/chester-w-xie/FCAC_datasets) to prepare the NSynth-100 and FSC-89 datasets.
 
+Then test the dataset loding using the following conmman:
+
+```
+python DatasetsManager_Nsynth100.py --metapath /SATA01/datasets/The_NSynth_Dataset \
+--audiopath path to the The_NSynth_Dataset folder --num_class 100 --base_class 55
+
+```
+
+```
+python DatasetsManager_FSC89.py --metapath /SATA01/datasets/FSD-MIX-CLIPS-for_FSCIL/FSD_MIX_CLIPS.annotations_revised/FSC-89-meta \
+--datapath path to the FSD-MIX-CLIPS_data folder --data_type audio --setup mini
+```
+
 ## Usage
 
 ## Main results

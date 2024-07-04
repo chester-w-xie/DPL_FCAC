@@ -45,7 +45,7 @@ This creates conda environment ```FCAC``` with all the dependencies.
 
 Please follow the instructions [here](https://github.com/chester-w-xie/FCAC_datasets) to prepare the NSynth-100 and FSC-89 datasets.
 
-Then test the dataset loding using the following conmman:
+Please execute the following commands in your server terminal to perform dataset loading verification. This process will automatically extract the normalization statistics for each dataset. Ensure that the paths to the datasets are correctly configured:
 
 ```
 python DatasetsManager_Nsynth100.py --metapath /SATA01/datasets/The_NSynth_Dataset \

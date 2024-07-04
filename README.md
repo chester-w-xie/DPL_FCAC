@@ -41,7 +41,7 @@ conda env create -f environment.yml
 ```
 This creates conda environment ```FCAC``` with all the dependencies.
 
-## Datasets
+## 1. Datasets
 
 Please follow the instructions [here](https://github.com/chester-w-xie/FCAC_datasets) to prepare the NSynth-100 and FSC-89 datasets.
 
@@ -58,7 +58,7 @@ python DatasetsManager_FSC89.py --metapath /SATA01/datasets/FSD-MIX-CLIPS-for_FS
 --datapath path to the FSD-MIX-CLIPS_data folder --data_type audio --setup mini
 ```
 
-## Usage
+## 2. Usage
 
 For the experiments involving the DPL method on the Nsynth-100 dataset, please update the dataset path in the 'exp_Nsynth.sh' file before executing it:
 ```
@@ -73,7 +73,7 @@ exp_FSC89.sh
 
 
 
-## Main results
+## 3. Main results
 
 The scripts is configured to conduct 100 trials by default, with the final results being aggregated for statistical analysis.
 
@@ -84,7 +84,7 @@ You should obtain results similar to the following, which may vary based on your
 </div>
 
 
-## Acknowledgement
+## 4. Acknowledgement
 Our project references the codes in the following repos.
 
 - [CEC](https://github.com/icoz69/CEC-CVPR2021)

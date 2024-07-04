@@ -75,7 +75,7 @@ exp_FSC89.sh
 
 ## Main results
 
-The script is configured to conduct 100 trials by default, with the final results being aggregated for statistical analysis.
+The scripts is configured to conduct 100 trials by default, with the final results being aggregated for statistical analysis.
 
 You should obtain results similar to the following, which may vary based on your software and hardware configuration.
 

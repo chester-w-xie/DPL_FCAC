@@ -60,6 +60,17 @@ python DatasetsManager_FSC89.py --metapath /SATA01/datasets/FSD-MIX-CLIPS-for_FS
 
 ## Usage
 
+For the experiments involving the DPL method on the Nsynth-100 dataset, please update the dataset path in the 'exp_Nsynth.sh' file before executing it:
+```
+sh exp_Nsynth.sh
+```
+
+For the experiments involving the DPL method on the FSC-89 dataset, please update the dataset path in the 'exp_FSC89.sh' file before executing it:
+
+```
+exp_FSC89.sh
+```
+
 ## Main results
 
 <div align="left">

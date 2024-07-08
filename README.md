@@ -68,7 +68,7 @@ sh exp_Nsynth.sh
 For the experiments involving the DPL method on the FSC-89 dataset, please update the dataset path in the 'exp_FSC89.sh' file before executing it:
 
 ```
-exp_FSC89.sh
+sh exp_FSC89.sh
 ```
 
 
